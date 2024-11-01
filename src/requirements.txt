@@ -1,0 +1,8 @@
+scikit-learn
+matplotlib
+accelerate
+deepspeed
+transformers==4.44.2
+pandas
+wandb
+datasets
