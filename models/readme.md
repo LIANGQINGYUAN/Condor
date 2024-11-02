@@ -1,0 +1,1 @@
+You can download the model with fine-tuned weights from anonymous [link](https://zenodo.org/records/14027725?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjZmZDcyMGY1LWQzYmEtNGFkYS05MmU1LTM4ZmRiNjJhZjFiZSIsImRhdGEiOnt9LCJyYW5kb20iOiI2MzM0N2NmNTFiNTExNzJkZWJlNWY2OGU2YTczOTE5YiJ9.pFxazXTQaQbL-scTa0HcejFEQGY1lka04bUeLrJQ5yfHp-40wCIUGxndR5JRbyovFo-p0__ouBFeKBCfGU5jSA).
