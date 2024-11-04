@@ -34,7 +34,7 @@ echo "The number of GPUs: $gpucount"
 
 # CUDA_VISIBLE_DEVICES=$GPUID python run.py \
 ## accelerate training
-CUDA_VISIBLE_DEVICES=$GPUID accelerate launch --main_process_port $PORT --num_processes $gpucount --config_file /share/liangqingyuan/ranker/src/acc_config.yaml /share/liangqingyuan/ranker/src/run.py \
+CUDA_VISIBLE_DEVICES=$GPUID accelerate launch --main_process_port $PORT --num_processes $gpucount --config_file ./acc_config.yaml ./run.py \
     --load $MODEL \
     --output_dir $SAVE_DIR \
     --task $TASK \
