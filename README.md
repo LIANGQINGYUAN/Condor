@@ -2,6 +2,8 @@
 
 A Code Discriminator Integrating General Semantics with Code Details
 
+Paper: https://arxiv.org/abs/2412.17429
+
 <img width="970" alt="image" src="https://github.com/user-attachments/assets/40aa1c37-f187-4292-bc97-5ea18cc68800">
 
 The Condor consists of two main components: contrastive learning at the embedding level to capture code details (upper section), and data-level augmentation through intermediate code, which supplements code details that are not recorded in existing datasets (lower section).
